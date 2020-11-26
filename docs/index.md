@@ -2,7 +2,7 @@
  |[ Overview ](#Overview)|[ Installation ](#Installation)|[ Accessing The App ](#Accessing\ The\ App)|[ Using The App ](#Using\ The\ App)|[ AAO GitHub ](https://github.com/sloanlipman/automatic-apparel-outliner)|[ AAO Dev Team ](#AAO\ Dev\ Team)|
 
 
-## <a id="Overview">Overview</a>
+## <a name="Overview">Overview</a>
 Automatic Apparel Outliner (AAO) web app is designed to draw outlines around the section of images
 containing articles of clothing in photographs. 
 
@@ -13,7 +13,7 @@ This site provides information regarding the AAO project.
 <br>
 ![DemoImage2](Capture2.PNG "demoImage2")
 
-## <a id="Installation">Installation</a>
+## <a name="Installation">Installation</a>
 1. Install Docker
     * Go to https://docs.docker.com/get-docker/ and download Docker for Mac/Windows/Linux 
     * Run the installer exe/bin to install Docker on the machine that will be the server
