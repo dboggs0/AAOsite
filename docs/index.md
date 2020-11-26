@@ -1,6 +1,6 @@
 # The Automatic Apparel Outliner Project
- |[Overview](#Overview)|[Installation](#Installation)|[Accessing The App](#Accessing\ The\ App)|[Using The App](#Using\ The\ App)|
- |:---|:---|:---|:---|
+ |[Overview](#Overview)|[Installation](#Installation)|[Accessing The App](#Accessing\ The\ App)|[Using The App](#Using\ The\ App)|[AAO GitHub](https://github.com/sloanlipman/automatic-apparel-outliner)|[AAO Dev Team](#AAO\ Dev\ Team)|
+ |:---|:---|:---|:---|:---|:---|
 
 ## Overview
 Automatic Apparel Outliner (AAO) web app is designed to draw outlines around the section of images
@@ -58,6 +58,39 @@ Click on the box below the Segmented Image area to bring up the color selector.
 
 ![ImageDemo4](ImageDemo4.PNG "Image Demo 4")
 
-6. Clicki on the "Outline Selected Segment" button at the bottom of the screen to generate the outlines.
+6. Click on the "Outline Selected Segment" button at the bottom of the screen to generate the outlines.
 
 ![ImageDemo5](ImageDemo5.PNG "Image Demo 5")
+
+7. The outlines can be removed in order to select a different outine color or thickness.  To do this click the "Clear Outlines" button.
+
+8. The images can be downloaded by clicking the "Download Images" button.  Once done one or all of the following can be selected:
+    * The original image
+    * The original image with an outline
+    * The segmented image
+    * The segmented image with an outline
+
+![ImageDemo7](ImageDemo7.PNG "Image Demo 7")
+
+9. The selected images are downloaded as a zip archive.
+
+![ImageDemo8](ImageDemo8.PNG "Image Demo 8")
+
+## AAO Dev Team
+
+### Sloan Lipman
+* [LinkedIn](https://www.linkedin.com/in/sloan-lipman-b21b1626)
+* [GitHub](https://github.com/sloanlipman)
+* [Gmail](sloan.lipman@gmail.com)
+
+### Akshata Marathe
+* [LinkedIn](https://www.linkedin.com/in/akshata-marathe)
+
+### Dave Boggs
+* [LinkedIn](https://www.linkedin.com/in/daveboggs)
+* [GitHub](https://github.com/dboggs0)
+
+### Francisco Ozuna Diaz
+* [LinkedIn](https://www.linkedin.com/in/francisco-ozuna)
+* [GitHub](https://github.com/ciscojvr)
+* [Gmail](cisco.ozuna@gmail.com)
