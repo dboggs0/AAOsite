@@ -9,6 +9,8 @@ containing articles of clothing in photographs.
 This site provides information regarding the AAO project.
 
 ![DemoImage1](Capture1.PNG "demoImage1")
+<br>
+<br>
 ![DemoImage2](Capture2.PNG "demoImage2")
 
 ## Installation
