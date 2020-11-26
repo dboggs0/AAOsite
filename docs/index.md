@@ -1,5 +1,5 @@
 # The Automatic Apparel Outliner Project
- |[ Overview ](#Overview)|[ Installation ](#Installation)|[ Accessing The App ](#Accessing\ The\ App)|[ Using The App ](#Using\ The\ App)|[ AAO GitHub ](https://github.com/sloanlipman/automatic-apparel-outliner)|[ AAO Dev Team ](#AAO\ Dev\ Team)|
+ |[ Overview ](#Overview)|[ Installation ](#Installation)|[ Accessing The App ](#Accessing-The-App)|[ Using The App ](#Using-The-App)|[ AAO GitHub ](https://github.com/sloanlipman/automatic-apparel-outliner)|[ AAO Dev Team ](#AAO-Dev-Team)|
 
 
 ## <a name="Overview">Overview</a>
@@ -27,12 +27,12 @@ This site provides information regarding the AAO project.
 1. The above comand will provide a docker image ID.  Use that image ID with the following command:
     > $ docker run \<imageID>
 
-## Accessing The App
+## <a name="Accessing-The-App">Accessing The App</a>
 Once the docker image is running the app can be accessed through a web browser at the following address:
 
 > http://\<Server IP Address>:12345/home
 
-## Using The App
+## <a name="Using-The-App">Using The App</a>
 
 1. Click the “SELECT A FILE” button and select an image from your device to upload. The supported image file types are JPEG, PNG or BMP.
 
@@ -78,7 +78,7 @@ Click on the box below the Segmented Image area to bring up the color selector.
 
 ![ImageDemo8](ImageDemo8.PNG "Image Demo 8")
 
-## AAO Dev Team
+## <a name="AAO-Dev-Team">AAO Dev Team</a>
 
 ### Sloan Lipman
 * [LinkedIn](https://www.linkedin.com/in/sloan-lipman-b21b1626)
