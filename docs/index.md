@@ -1,5 +1,5 @@
 # The Automatic Apparel Outliner Project
- |[Overview](#Overview)|[Installation](#Installation)|[Accessing The App](#Accessing\ The\ App)|[Using The App](#Using\ The\ App)|[AAO GitHub](https://github.com/sloanlipman/automatic-apparel-outliner)|[AAO Dev Team](#AAO\ Dev\ Team)|
+ |[ Overview ](#Overview)|[ Installation ](#Installation)|[ Accessing The App ](#Accessing\ The\ App)|[ Using The App ](#Using\ The\ App)|[ AAO GitHub ](https://github.com/sloanlipman/automatic-apparel-outliner)|[ AAO Dev Team ](#AAO\ Dev\ Team)|
 
 
 ## Overview
