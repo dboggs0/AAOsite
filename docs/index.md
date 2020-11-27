@@ -13,18 +13,27 @@ This site provides information regarding the AAO project.
 ![DemoImage2](Capture2.PNG "demoImage2")
 
 ## <a name="Installation">Installation</a>
-1. Install Docker
-    * Go to https://docs.docker.com/get-docker/ and download Docker for Mac/Windows/Linux
-    * Run the installer exe/bin to install Docker on the machine that will be the server
-    * Run Docker app on the 
-1. Install [Git](https://git-scm.com/downloads)
-1. Clone the AAO repository:
-    > $ git clone https://github.com/sloanlipman/automatic-apparel-outliner.git
-1. Navigate to the directory containing the file called Dockerfile
-1. Run the following command:
-    > $ docker build .
-1. The above comand will provide a docker image ID.  Use that image ID with the following command:
-    > $ docker run \<imageID>
+The following installation instructions assume that you are planning to host the application on your website. We assume that you have access to a virtual machine in which you can build and deploy a Docker image.
+
+1. Clone the Automatic Apparel Outliner repository and change directories.
+
+    >$ git clone https://github.com/sloanlipman/automatic-apparel-outliner.git
+
+    >$ cd automatic-apparel-outliner
+
+2. Run the setup script.
+
+    > For Windows VMs, run .\setup.bat
+
+    > For Linux and Mac VMs, run source setup.sh
+
+    > Follow the prompt in the script to provide the domain name for your VM, including http:// or https:// as applicable.
+
+    > The script will print out Angular's environment configuration file. Make shre that the value for API_URL looks correct.
+
+    > For example, if your domain is http://aao.ninja, you should see something like this: export const environment = {production: true, API_URL: 'http://aao.ninja:12345'};
+
+3. If there are no errors, let the script continue to run. It will build a Docker image and start up the container for you.
 
 ## <a name="Accessing-The-App">Accessing The App</a>
 Once the docker image is running the app can be accessed through a web browser at the following address:
