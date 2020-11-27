@@ -83,7 +83,7 @@ Click on the box below the Segmented Image area to bring up the color selector.
 ### Sloan Lipman
 * [LinkedIn](https://www.linkedin.com/in/sloan-lipman-b21b1626)
 * [GitHub](https://github.com/sloanlipman)
-* [Gmail](sloan.lipman@gmail.com)
+* [Gmail](mailto:sloan.lipman@gmail.com)
 
 ### Akshata Marathe
 * [LinkedIn](https://www.linkedin.com/in/akshata-marathe)
@@ -95,4 +95,4 @@ Click on the box below the Segmented Image area to bring up the color selector.
 ### Francisco Ozuna Diaz
 * [LinkedIn](https://www.linkedin.com/in/francisco-ozuna)
 * [GitHub](https://github.com/ciscojvr)
-* [Gmail](cisco.ozuna@gmail.com)
+* [Gmail](mailto:cisco.ozuna@gmail.com)
