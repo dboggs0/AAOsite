@@ -104,3 +104,6 @@ Click on the box below the Segmented Image area to bring up the color selector.
 * [LinkedIn](https://www.linkedin.com/in/francisco-ozuna)
 * [GitHub](https://github.com/ciscojvr)
 * [Gmail](mailto:cisco.ozuna@gmail.com)
+
+### Andrew Neary
+* [LinkedIn](https://www.linkedin.com/in/andrew-neary-39b190127/)
